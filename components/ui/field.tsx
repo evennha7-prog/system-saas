@@ -13,6 +13,7 @@ function FieldGroup({
     <div
       data-slot="field-group"
       className={cn("grid gap-4", className)}
+      suppressHydrationWarning
       {...props}
     />
   )
@@ -20,7 +21,7 @@ function FieldGroup({
 
 function Field({ className, ...props }: React.ComponentProps<"div">) {
   return (
-    <div data-slot="field" className={cn("grid gap-2", className)} {...props} />
+    <div data-slot="field" className={cn("grid gap-2", className)} suppressHydrationWarning {...props} />
   )
 }
 

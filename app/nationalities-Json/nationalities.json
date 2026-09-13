@@ -1,0 +1,14 @@
+{
+  "nationalities": {
+    "local": {
+      "english": "Cambodian",
+      "khmer": "ជនជាតិខ្មែរ",
+      "chinese": "柬埔寨人"
+    },
+    "foreigner": {
+      "english": "Foreigner",
+      "khmer": "ជនបរទេស",
+      "chinese": "外国人"
+    }
+  }
+}

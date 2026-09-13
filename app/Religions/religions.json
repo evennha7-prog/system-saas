@@ -1,0 +1,11 @@
+
+{
+  "religions": [
+    { "id": "BUD", "name_en": "Buddhism", "name_kh": "ព្រះពុទ្ធសាសនា" },
+    { "id": "CHR", "name_en": "Christianity", "name_kh": "គ្រិស្តសាសនា" },
+    { "id": "ISL", "name_en": "Islam", "name_kh": "ឥស្លាមសាសនា" },
+    { "id": "HIN", "name_en": "Hinduism", "name_kh": "ហិណ្ឌូសាសនា" },
+    { "id": "OTH", "name_en": "Other", "name_kh": "ផ្សេងៗ" },
+    { "id": "NON", "name_en": "No Religion / Atheist", "name_kh": "គ្មានសាសនា" }
+  ]
+}
